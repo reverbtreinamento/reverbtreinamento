@@ -80,16 +80,20 @@ Também é possível desenvolver sites de tipo comércio eletrônico, revistas, 
 Para fixar o aprendizado, vamos recaptular com este exercício.
 
 ### 3- WebHosts, Hospedagem de Sites e Registro de Domínios
--
+Neste módulo, vamos aprofundar um pouco os conceitos sobre Hospedagem de Sites e Registro de Domínios.
 
 #### 3.1- Hospedagem de Sites
--
+Hospedagem de sites é um serviço que possibilita a pessoas ou empresas com sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou qualquer conteúdo acessível na Web (Internet). 
+
+Provedores de Hospedagem de Sites tipicamente são empresas que fornecem um espaço em seus servidores e conexão à internet a estes dados aos seus clientes.
+
+Tipicamente a hospedagem de sites, hospeda arquivos 24 horas por dia, em um endereço IP estático, por sua vez, utilizamos um domínio para encontrar com facilidade este site, é muito comum confundir hospedagem de sites com registro de domínio, entretanto, apesar de ambos trabalharem em conjunto, são serviços diferentes.
 
 ### 4- Preparando nosso ambiente de Trabalho
 Neste módulo, iremos abordar a preparação do ambiente de trabalho e tudo o que você irá precisar  para desenvolver os projetos aqui no curso.
 
 #### 4.1- Instalando o ambiente local com o WAMP Server
--
+Vamos instalar o WordPress em nosso PC para termos um ambiente de trabalho e estudos, sem necessariamente ter um host ou Hospedagem Web.
 
 ### 5- Conhecendo o WordPress
 Neste módulo iremos finalmente falar do WordPress. Irei demonstrar todos os recursos da plataforma, desde o  mais básico até itens mais sofisticados. Acompanhe!

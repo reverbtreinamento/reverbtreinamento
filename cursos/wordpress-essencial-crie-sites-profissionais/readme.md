@@ -95,6 +95,8 @@ Neste módulo, iremos abordar a preparação do ambiente de trabalho e tudo o qu
 #### 4.1- Instalando o ambiente local com o WAMP Server
 Vamos instalar o WordPress em nosso PC para termos um ambiente de trabalho e estudos, sem necessariamente ter um host ou Hospedagem Web.
 
+As Urls para os sistemas utilizados nesta aula estão no arquivo anexo.
+
 ### 5- Conhecendo o WordPress
 Neste módulo iremos finalmente falar do WordPress. Irei demonstrar todos os recursos da plataforma, desde o  mais básico até itens mais sofisticados. Acompanhe!
 
@@ -139,7 +141,7 @@ O WordPress possui um sistema incrível de organização de imagens que, se bem 
 #### 5.7- Plugins - Parte 1
 #### 5.8- Plugins - Parte 2
 
-Os plugin é um importante recurso dentro do WordPress, sendo possível inserir código no seu site WordPress. 
+Os plugins são um importante recurso dentro do WordPress, sendo possível inserir código no seu site WordPress. 
 
 De forma simples, é uma extensão que aumenta e melhora as funcionalidades do seu site principal. 
 
@@ -155,28 +157,29 @@ Vamos terminar de customizar a aparência e visualizar os recursos possíveis.
 Vamos desenvolver do zero um site para um restaurante. De maneira bem simples e passo a passo, você aprenderá como fazer a instalação do seu WordPress e customizar os elementos internos do mesmo.
 
 #### 6.1- Apresentação do Projeto
--
+Vou demonstrar em poucos minutos o que vamos fazer neste projeto. Lembrando que, é um projeto de um site para restaurantes, mas pode facilmente ser aplicado para outros modelos de negócios como bares, pizzarias entre outros.
+
+##### Antes de iniciar, pegue nosso material aqui
+Aqui embaixo, nos recursos, você encontrará o tema que utilizei neste módulo para instalar em sua maquina.
 
 #### 6.2- Setup do Tema
--
+Vamos fazer o setup e instalação do tema. 
 
 #### 6.3- Instalacao dos Plugins
--
+Continuando o setup do tema, vamos instalar os plugins obrigatórios do tema.
 
 #### 6.4- Importação da Demo
--
+Continuando o setup do tema, agora vamos dar uma aparência ao nosso site com a importação da demo.
 
 #### 6.5- Customizando o Tema - Parte 1
--
-
 #### 6.6- Customizando o Tema - Parte 2
--
+Customizando o tema.
 
 #### 6.7- Customizando o Tema - Parte 3 - HomePage
--
+Vamos dar vida à nossa HomePage. Para isso, vamos traduzir alguns itens do conteúdo da página que veio instalado na demo do tema.
 
 #### 6.8- Customizando o Tema - Demais partes
--
+Vamos dar vida às demais páginas e finalizar a customização das páginas que vieram sugeridas pelo tema.
 
 #### 6.9- Customizando o Header do Template
 -

@@ -99,40 +99,57 @@ Vamos instalar o WordPress em nosso PC para termos um ambiente de trabalho e est
 Neste módulo iremos finalmente falar do WordPress. Irei demonstrar todos os recursos da plataforma, desde o  mais básico até itens mais sofisticados. Acompanhe!
 
 #### 5.1- Instalando o WordPress
--
+Vamos iniciar instalando a plataforma do WordPress em sua máquina e conhecer os seus recursos.
 
 #### 5.2- Conhecendo o Painel de Controle
--
+Como toda ferramenta CMS, o WordPress possui um painel administrativo para que você gerencie o seu conteúdo.
+
+Para isto, você precisa acessar a url /wp-admin de sua instalação para visualizar o painel.
+
+Exemplo de como fica a url: www.meusite.com.br/wp-admin
+
+Então, é só fornecer o seu login e senha cadastrados no momento da instalação.
 
 #### 5.3- Configurando nosso site
--
+Conhecendo a estrutura padrão de configuração de um site em WordPress.
 
 #### 5.4- Criando Posts
--
+Um dos itens mais importantes de um blog, com certeza é um artigo ou post. No WordPress, assim como em outros CMS, o post já é nativo da plataforma, ou seja, tudo o que criamos dentro do WordPress basicamente se resume a um post.
+
+Para entender melhor o que digo, internamente, todos estes artigos são armazenados em uma tabela chamada wp-posts.
+
+Portanto, os posts são a célula básica de nosso CMS e vamos aprender como criar e gerenciar este conteúdo.
 
 #### 5.5- Paginas
--
+Como outro tipo importante a ser criado, a página vai nos permitir exibir conteúdo para que possamos disponibilizar, além da navegação, em outros recursos, como os menus.
+
+Geralmente esta é uma dúvida muito comum, já que tudo no WordPress é basicamente um post.
+
+Mas a página pode ser associada a tipos diferentes dentro da plataforma, onde já não será possível com os simples posts.
 
 #### 5.6- Mídias
--
+Outro tipo importante dentro do WordPress são as mídias ou arquivos anexos (attachments).
+
+Teremos também para ele o tipo específico do post, mas com uma diferença: iremos referenciar um arquivo físico dentro de nossos arquivos do site.
+
+Ou seja, ele ficará hospedado em uma pasta física em nosso sistema de arquivos.
+
+O WordPress possui um sistema incrível de organização de imagens que, se bem utilizado e organizado, pode se transformar em uma excelente ferramenta de biblioteca de imagens.
 
 #### 5.7- Plugins - Parte 1
--
-
 #### 5.8- Plugins - Parte 2
--
+
+Os plugin é um importante recurso dentro do WordPress, sendo possível inserir código no seu site WordPress. 
+
+De forma simples, é uma extensão que aumenta e melhora as funcionalidades do seu site principal. 
+
+Utilizar plugins é a forma mais recomendada de aumentar o potencial do seu site sem precisar editar os códigos originais do WordPress
 
 #### 5.9- Aparencia - Parte 1
--
-
 #### 5.10- Aparencia - Parte 2
--
-
 #### 5.11- Aparencia - Parte 3
--
-
 #### 5.12- Aparencia - Parte 4
--
+Vamos terminar de customizar a aparência e visualizar os recursos possíveis.
 
 ### 6- Projeto Prático I - Site do Restaurante
 Vamos desenvolver do zero um site para um restaurante. De maneira bem simples e passo a passo, você aprenderá como fazer a instalação do seu WordPress e customizar os elementos internos do mesmo.

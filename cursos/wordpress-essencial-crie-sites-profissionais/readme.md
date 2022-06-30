@@ -182,13 +182,21 @@ Vamos dar vida à nossa HomePage. Para isso, vamos traduzir alguns itens do cont
 Vamos dar vida às demais páginas e finalizar a customização das páginas que vieram sugeridas pelo tema.
 
 #### 6.9- Customizando o Header do Template
--
+Agora, é hora de arranjar e customizar o cabeçalho do site. No jargão mais técnico, vamos customizar o header de nosso site e o seu menu.
 
 #### 6.10- Customizando o Footer do Template
--
+Agora, é hora de arranjar e customizar o cabeçalho do site ou também conhecido com o footer. 
 
 #### 6.11- Concluindo o Projeto
--
+Se você chegou até aqui, meus parabéns! Este é o seu primeiro site em WordPress e o desafio foi concluído.
+
+Eu acredito que agora, já consiga seguir os passos que demonstrei até aqui e desenvolver um site do zero.
+
+Lembre-se: a melhor forma de aprender é praticando. Não adianta apenas ter assistido às aulas, mas é necessário um compromisso teu consigo mesmo.
+
+Pegue este último módulo e tente fazer um site do zero aplicando os mesmos conceitos aprendidos acima.
+
+Me envie mensagem aqui depois de concluir e me conta como foi. Até o próximo módulo!
 
 ### 7- Projeto Prático II - Site do Hotel com Sistema de Reservas
 

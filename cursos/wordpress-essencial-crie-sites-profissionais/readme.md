@@ -41,7 +41,17 @@ Também há um módulo de principais resoluções de erros da plataforma e um m�
 -
 
 #### 1.1- Introdução e apresentação do curso
--
+Olá, muito bem-vindo(a) ao Curso WordPress Essencial. Aqui você irá ter uma imersão prática do que é a maior plataforma livre de construção de sites, blogs e até sistemas.
+Eu vou fazer um pequeno resumo do que você vai encontrar nos próximos módulos.
+
+- Modulo 1- Conceitos da Ferramenta (Nós vamos conhecer a plataforma e um pouco de sua história, conceitos e teoria);
+- Módulo 2- WebHosts, Hospedagem de Sites e Registro de Domínios (onde iremos detalhar uma base teórica do que é uma hospedagem de sites, criação de domínios e afins);
+- Módulo 3- Preparando nosso ambiente de Trabalho (Aqui nossa primeira aula prática com a ferramenta, preparando nosso ambiente de desenvolvimento);
+- Módulo 4- Conhecendo o WordPress (Agora com uma abordagem prática por cada módulo do WordPress);
+- Módulo 5- Projeto Prático I - Site do Restaurante (Vamos desenvolver do zero um site para um restaurante);
+- Módulo 6- Projeto Prático II - Site do Hotel com Sistema de Reservas (onde iremos desenvolver do zero um site para um hotel e utilizar um tema com sistema de reservas)
+- Módulo 7- Conclusões;
+- Módulo 8- Resolução de problemas na plataforma do WordPress
 
 ### 2- Conceitos - Uma pequena apresentação teórica
 -
@@ -58,13 +68,9 @@ Um conteúdo teórico sobre o WordPress. Disponibilizo também o material em PDF
 Para fixar o aprendizado, vamos recaptular com este exercício.
 
 ### 3- WebHosts, Hospedagem de Sites e Registro de Domínios
+-
 
 #### 3.1- Hospedagem de Sites
-
-### 4- Preparando nosso ambiente de Trabalho
-Neste módulo, iremos abordar a preparação do ambiente de trabalho e tudo o que você irá precisar  para desenvolver os projetos aqui no curso.
-
-#### 4.1- Instalando o ambiente local com o WAMP Server
 -
 
 ### 4- Preparando nosso ambiente de Trabalho
@@ -175,4 +181,4 @@ Vamos desenvolver do zero um site para um restaurante. De maneira bem simples e 
 -
 
 ### 8- Resolução de problemas na plataforma do WordPress
-
+-

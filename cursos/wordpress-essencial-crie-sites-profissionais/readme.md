@@ -38,7 +38,7 @@ O curso é dividido em 2 módulos teorícos sobre a plataforma e mais 2 módulos
 Também há um módulo de principais resoluções de erros da plataforma e um módulo para setup de ambiente e desafios encontrados.
 
 ### 1- Introdução
--
+Muito bem-vindo(a) ao Curso WordPress Essencial. Espero que aproveite o conteúdo deste curso e seja um profissional preparado para o mercado muito em breve. Bons estudos!
 
 #### 1.1- Introdução e apresentação do curso
 Olá, muito bem-vindo(a) ao Curso WordPress Essencial. Aqui você irá ter uma imersão prática do que é a maior plataforma livre de construção de sites, blogs e até sistemas.
@@ -54,15 +54,27 @@ Eu vou fazer um pequeno resumo do que você vai encontrar nos próximos módulos
 - Módulo 8- Resolução de problemas na plataforma do WordPress
 
 ### 2- Conceitos - Uma pequena apresentação teórica
--
-
 Antes de começarmos a visualizar a ferramenta de maneira prática, vamos ver alguns assuntos mais teóricos para enriquecer o nosso aprendizado e consolidar o conhecimento.
 
 #### 2.1- Um conteúdo sobre o WordPress
 Um conteúdo teórico sobre o WordPress. Disponibilizo também o material em PDF, caso queira colocar em outro aparelho ou mesmo imprimir.
 
 #### 2.2- O que é o WordPress?
--
+Nesta aula irei apresentar a você o WordPress, uma das maiores ferramentas CMS OpenSource disponíveis na web.
+
+##### O que é o WordPress?
+
+WordPress é um sistema livre e aberto de gestão de conteúdo para internet (do inglês: Content Management System - CMS), baseado em PHP com banco de dados MySQL, executado em um servidor interpretador, voltado principalmente para a criação de páginas eletrônicas (sites) e blogs online. 
+
+Criado a partir do extinto b2/cafelog, por Ryan Boren e Matthew Mullenweg, e distribuído gratuitamente sob a GNU General Public License.
+
+É uma das ferramentas mais utilizadas para conteúdo na web, disputando com o serviço do Google, chamado Blogger. 
+
+No entanto, o WordPress é adotado por aqueles que queiram uma página com maior personalização e recursos diferenciais.
+
+A popularização deste sistema é devido, entre outras, seu tipo de licença (de código aberto), facilidade de uso e, a versatilidade. 
+
+Também é possível desenvolver sites de tipo comércio eletrônico, revistas, portfólio, gerenciador de projeto, agregador de eventos e, outros conteúdos devido a sua capacidade de extensão através de plugins, temas e programação PHP.
 
 #### 2.3- Teste seus conhecimentos
 Para fixar o aprendizado, vamos recaptular com este exercício.

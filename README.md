@@ -1,11 +1,3 @@
-- 👋 Somos a @reverbtreinamento, grupo da empresa <a href="https://www.reverb.tec.br/" target="_blank">Reverb Tech</a> com foco em treinamentos na área de Tecnologia da Informação.
+Olá 👋,
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-reverbtreinamento/reverbtreinamento is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Somos a @reverbtreinamento, grupo da empresa <a href="https://www.reverb.tec.br/" target="_blank">Reverb Tech</a> com foco em treinamentos na área de Tecnologia da Informação.

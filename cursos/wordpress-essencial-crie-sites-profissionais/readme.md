@@ -238,4 +238,7 @@ Neste módulo, vamos customizar do zero um sistema para reservas de um hotel. As
 -
 
 ### 8- Resolução de problemas na plataforma do WordPress
+Neste módulo, vão ficar algumas aulas e artigos sobre resolução de problemas com o WordPress.
+
+#### 8.1- 
 -

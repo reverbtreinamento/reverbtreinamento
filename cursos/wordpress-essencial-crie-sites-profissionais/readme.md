@@ -199,29 +199,42 @@ Pegue este último módulo e tente fazer um site do zero aplicando os mesmos con
 Me envie mensagem aqui depois de concluir e me conta como foi. Até o próximo módulo!
 
 ### 7- Projeto Prático II - Site do Hotel com Sistema de Reservas
+Neste módulo, vamos customizar do zero um sistema para reservas de um hotel. Assim, te dará a visão de como customizar um sistema com o WordPress.
 
-#### 7.1- Vamos iniciar instalando o WordPress em nosso ambiente
+#### 7.1- Apresentação do Projeto
 -
 
-#### 7.2- Importando a Demo do Tema
+#### 7.2- Vamos iniciar instalando o WordPress em nosso ambiente
 -
 
-#### 7.3- Customizando o tema - Tipos de Acomodações e primeiros passos com o novo tema
+#### 7.3- Importando a Demo do Tema
 -
 
-#### 7.4- Preço e Reserva - Sistema de Pagamento
+#### 7.4- Customizando o tema - Tipos de Acomodações e primeiros passos com o novo tema
 -
 
-#### 7.5- Exibindo a acomodação na HomePage
+#### 7.5- Preço e Reserva - Sistema de Pagamento
 -
 
-#### 7.6- Configurando o Gateway de Pagamento
+#### 7.6- Exibindo a acomodação na HomePage
 -
 
-#### 7.7- Alterando os textos e customizando a HomePage
+#### 7.7- Configurando o Gateway de Pagamento
 -
 
-#### 7.8- Configurando a API do Google Maps
+#### 7.8- Alterando os textos e customizando a HomePage
+-
+
+#### 7.9- Configurando a API do Google Maps
+-
+
+#### 7.10- Customizando o Menu
+-
+
+#### 7.11- Customizando o footer
+-
+
+#### 7.12- Conclusão do modulo
 -
 
 ### 8- Resolução de problemas na plataforma do WordPress

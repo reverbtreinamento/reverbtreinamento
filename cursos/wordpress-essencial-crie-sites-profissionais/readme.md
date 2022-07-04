@@ -95,4 +95,4 @@ Também há um módulo de principais resoluções de erros da plataforma e um m�
 #### 7.1- Hospedagem de Sites
 
 ### 8- Resolução de problemas na plataforma do WordPress
-#### 8.1- 
+#### 8.1- Erro ao redirecionar as página - 404

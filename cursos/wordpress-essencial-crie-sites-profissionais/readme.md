@@ -92,6 +92,7 @@ Também há um módulo de principais resoluções de erros da plataforma e um m�
 #### 6.12- Conclusão do modulo
 
 ### 7- WebHosts, Hospedagem de Sites e Registro de Domínios
+#### 7.2- Domínios
 #### 7.1- Hospedagem de Sites
 
 ### 8- Resolução de problemas na plataforma do WordPress

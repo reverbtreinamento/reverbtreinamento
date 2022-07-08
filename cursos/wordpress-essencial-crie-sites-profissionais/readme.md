@@ -8,7 +8,7 @@ Assim, o curso foi dividido em módulos que vão desde o básico e mais elementa
 
 Algumas situações reais de projetos são ilustradas para que possa se sentir confortável, muito em breve, em fazer suas próprias criações e também para seus clientes.
 
-O curso está dividido em 4 módulos em um total de 18 aulas e cerca de 5hrs.
+O curso está dividido em 8 módulos em um total de 43 aulas e cerca de 6h42min de conteúdo.
 
 Esperamos que vocês gostem do nosso curso e entrem em contato caso tenham alguma dúvida, pois estaremos aqui para esclarecer. Nós fizemos esse curso com bastante atenção e cuidado para que você tenha uma experiência de aprendizagem facilitada e prática! 
 
